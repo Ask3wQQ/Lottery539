@@ -1,0 +1,5 @@
+#Ignore build environment
+__pycache__/
+build/
+dist/
+mainApp.spec
