@@ -1,0 +1,12 @@
+# Lottery 539
+Show all the permutations of the numbers user select to buy the lottery.
+
+
+# Generate exe file
+Use pyinstaller to generate exe file
+pyinstaller version: 3.4
+
+# To Do
+Generate QR code and use it to buy the lottery.
+
+
